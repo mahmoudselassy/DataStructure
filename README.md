@@ -1,2 +1,2 @@
 # DataStructure
-##built data structure from scratch in c++
+built data structure from scratch in c++
